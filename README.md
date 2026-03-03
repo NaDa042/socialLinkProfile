@@ -1,3 +1,3 @@
 # social link profile page
-## See the project here 
+## Live demo
 https://nada042.github.io/socialLinkProfile/
